@@ -1,0 +1,3 @@
+- some, every, for of 
+- for of vs for each 
+- differernt ways to declare array
